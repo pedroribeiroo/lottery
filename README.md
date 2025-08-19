@@ -1,7 +1,7 @@
 <h1 align="center">
     Lottery
 </h1>
-<p align="center"> Application developed to simulate an online lottery 💻🚀 </p>
+<p align="center"> Application developed to simulate an online lottery. 💻🚀 </p>
 
 <p align="center">
  <a href="#objective">Objective</a> •
